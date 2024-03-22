@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(236, 174, 57);
+}
+
+h1 {
+    margin-bottom: 0;
+    font-family: tahoma;
+    font-weight: bold;
+    color: rgb(100, 150, 25);
+}
+
+h3 {
+    font-family: sans-serif;
+    font-weight: 400;
+    color: rgb(0, 130, 255);
+}
+
+.text-black {
+    color: black !important;
+}
