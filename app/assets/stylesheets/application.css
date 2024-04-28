@@ -18,3 +18,7 @@ h3 {
 .text-black {
     color: black !important;
 }
+
+small {
+    margin-left: 5px;
+}
